@@ -1,0 +1,6 @@
+/out/
+/src/META
+ddp.jar
+"/test traces/xalan.std"
+"/test/pmd.std"
+"/test/bufwriter.std"
