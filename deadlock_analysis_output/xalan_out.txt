@@ -1,0 +1,3 @@
+Processed: 2419881 eventsDetected 0 deadlocks:
+Time for full analysis = 42772 milliseconds
+                       = 42 seconds

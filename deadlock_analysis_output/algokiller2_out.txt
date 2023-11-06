@@ -1,0 +1,27 @@
+Processed: 200 eventsDetected 12 deadlocks:
+
+* Deadlock Detected with events: e34 on lock 3 and e178 on lock 2
+
+* Deadlock Detected with events: e22 on lock 3 and e178 on lock 2
+
+* Deadlock Detected with events: e10 on lock 3 and e178 on lock 2
+
+* Deadlock Detected with events: e33 on lock 2 and e179 on lock 1
+
+* Deadlock Detected with events: e21 on lock 2 and e179 on lock 1
+
+* Deadlock Detected with events: e9 on lock 2 and e179 on lock 1
+
+* Deadlock Detected with events: e77 on lock 6 and e184 on lock 5
+
+* Deadlock Detected with events: e65 on lock 6 and e184 on lock 5
+
+* Deadlock Detected with events: e76 on lock 5 and e185 on lock 4
+
+* Deadlock Detected with events: e64 on lock 5 and e185 on lock 4
+
+* Deadlock Detected with events: e120 on lock 9 and e190 on lock 8
+
+* Deadlock Detected with events: e119 on lock 8 and e191 on lock 7
+Time for full analysis = 2 milliseconds
+                       = 0 seconds

@@ -1,0 +1,5 @@
+Processed: 12 eventsDetected 2 deadlocks:
+
+* Deadlock Detected with events: e6 on lock 2 and e10 on lock 1
+
+* Deadlock Detected with events: e2 on lock 2 and e10 on lock 1

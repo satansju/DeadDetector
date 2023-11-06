@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 /out/
 /src/META
 ddp.jar
 "/test traces/xalan.std"
 "/test/pmd.std"
+=======
+/out/
+/src/META
+ddp.jar
+"/test traces/xalan.std"
+"/test/pmd.std"
+>>>>>>> 083b4d27085019fd276728dd0a2878e10fdfa71c
 "/test/bufwriter.std"

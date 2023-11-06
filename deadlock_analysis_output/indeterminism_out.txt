@@ -1,0 +1,9 @@
+Processed: 16 eventsDetected 3 deadlocks:
+
+* Deadlock Detected with events: e10 on lock 2 and e14 on lock 1
+
+* Deadlock Detected with events: e6 on lock 2 and e14 on lock 1
+
+* Deadlock Detected with events: e2 on lock 2 and e14 on lock 1
+Time for full analysis = 1 milliseconds
+                       = 0 seconds

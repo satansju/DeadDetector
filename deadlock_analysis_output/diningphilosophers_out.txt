@@ -1,0 +1,11 @@
+Processed: 60 eventsDetected 4 deadlocks:
+
+* Deadlock Detected with events: e37 on lock L2a4c663e59 and e46 on lock L2a4c663e5b
+
+* Deadlock Detected with events: e29 on lock L2a4c663e59 and e46 on lock L2a4c663e5b
+
+* Deadlock Detected with events: e37 on lock L2a4c663e59 and e54 on lock L2a4c663e5b
+
+* Deadlock Detected with events: e29 on lock L2a4c663e59 and e54 on lock L2a4c663e5b
+Time for full analysis = 47 milliseconds
+                       = 0 seconds

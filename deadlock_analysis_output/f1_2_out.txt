@@ -1,0 +1,5 @@
+Processed: 10 eventsDetected 1 deadlock:
+
+* Deadlock Detected with events: e2 on lock 2 and e7 on lock 1
+Time for full analysis = 1 milliseconds
+                       = 0 seconds

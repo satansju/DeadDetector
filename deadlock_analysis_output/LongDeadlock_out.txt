@@ -1,0 +1,5 @@
+Processed: 4020 eventsDetected 1 deadlock:
+
+* Deadlock Detected with events: e9 on lock L2a5e3a3002 and e2016 on lock L2a5e3a305e
+Time for full analysis = 7 milliseconds
+                       = 0 seconds
