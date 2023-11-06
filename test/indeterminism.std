@@ -1,0 +1,16 @@
+T1|acq(1)|1
+T1|acq(2)|2
+T1|rel(2)|3
+T1|rel(1)|4
+T3|acq(1)|5
+T3|acq(2)|6
+T3|rel(2)|7
+T3|rel(1)|8
+T4|acq(1)|1
+T4|acq(2)|2
+T4|rel(2)|3
+T4|rel(1)|4
+T2|acq(2)|9
+T2|acq(1)|10
+T2|rel(1)|11
+T2|rel(2)|12
